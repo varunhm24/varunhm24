@@ -1,11 +1,25 @@
-# Hi, I'm Varun HM
-
+💫 About Me:
+# Hi, I'm Varun H M
+I am a student
 ### AI/ML • Data Science • Data Engineering Enthusiast
 
 I'm an engineering student interested in building practical solutions using
 Python, Machine Learning, Data Science, Artificial Intelligence, and Data Engineering.
 
 ---
+💻 Tech Stack:
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/e9c61d29-7b28-49da-9c0b-d4bb82aeb5b9" /> <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/22873bdf-736f-4ac7-a9e0-5debee87eb73" /> <img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/d3c02a83-76b3-44f3-a97f-21d990bfae7e" /> <img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/304ef937-b4ba-4146-828d-67af2903fb65" /> <img width="109" height="28" alt="image" src="https://github.com/user-attachments/assets/3a7c8990-89ae-40b6-a338-648d48155e3b" /> <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/62173ff8-5bbd-4a06-b70d-5ccbc63723e4" /> <img width="90" height="28" alt="image" src="https://github.com/user-attachments/assets/e920e38b-1057-4015-b117-f32e694b58e1" /> <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/82833c92-bd66-4733-acf9-e7ae61155e18" />
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/0e0a6ff3-954c-4d3b-814d-53a90562390b" /> <img width="131" height="28" alt="image" src="https://github.com/user-attachments/assets/80bf1605-c3eb-4514-94c9-b1e755be5e97" /> <img width="54" height="28" alt="image" src="https://github.com/user-attachments/assets/e988f6c2-8d64-4d7c-a56f-f954722bc8ad" />
+
+
+
+
+
+
+
+
+
+
 
 ## Featured Project
 
